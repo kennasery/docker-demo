@@ -1,6 +1,6 @@
 FROM openjdk:17-oracle
 
-EXPOSE 8080
+EXPOSE 8081
 
 ADD target/docker-demo.jar /docker-demo.jar
 
