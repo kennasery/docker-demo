@@ -2,7 +2,7 @@ package com.sumit.playjava.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+//Comment
 @RestController
 public class MyController {
 	
