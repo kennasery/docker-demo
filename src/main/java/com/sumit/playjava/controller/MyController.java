@@ -14,4 +14,8 @@ public class MyController {
 	public String getDataString() {
 		return "Encore bienvenue au premier projet de test Java.";
 	}
+	@GetMapping("/test-docker2")
+	public String getDataString() {
+		return "Enfin bienvenue au premier projet de test Java.";
+	}
 }
